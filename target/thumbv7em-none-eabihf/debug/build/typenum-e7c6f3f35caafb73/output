@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/vish/Coding/electronic-compass/target/thumbv7em-none-eabihf/debug/build/typenum-e7c6f3f35caafb73/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/vish/Coding/electronic-compass/target/thumbv7em-none-eabihf/debug/build/typenum-e7c6f3f35caafb73/out/op.rs
